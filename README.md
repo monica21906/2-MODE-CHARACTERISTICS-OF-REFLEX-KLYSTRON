@@ -54,8 +54,8 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-**Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+
+
 
 **CALCULATIONS:**
 
@@ -76,7 +76,33 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
+ **observation**
+ 
+ <img width="772" height="299" alt="image" src="https://github.com/user-attachments/assets/07e37a68-8b39-4db8-8078-5973d2a15c22" />
+
+**graph**
+
+<img width="1210" height="1554" alt="image" src="https://github.com/user-attachments/assets/6a511841-380c-448b-a959-5d336f19a860" />
+
+CALCULATIONS:
+
+Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph)
+By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾ with V2 = N2 = (n +1) + ¾ with V1 = N1 & N2 are respective modes numbers.
+ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
+
+Precautions:
+
+Check the connections before switching on the kit.
+Keep all the knobs in minimum position before going to switch ‘ON’ the powersupply of VSWR / Klystron power supplies.
+Note: For klystron power supply “HT” should be ‘OFF’ before switching ‘ON’the main supply.
+Beam knob should be completely in anticlockwise direction and repeller voltageknob should be completely clockwise direction.
+Switch on the main supply and give some warm up time to get current / accuratereading.
+Connections should be done properly.
+Don’t see directly inside the waveguide
+   
+	**Result:**
+	Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
+	
    	
 			
 			
